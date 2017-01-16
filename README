@@ -1,0 +1,2 @@
+This is a simple .pro file used to convert a flat (unformatted) binary image to a greyscale .png. Options include x and y dimensions of the image, min and max for the greyscale conversion, and an option to "flip" the image vertically (a common IDL operation).
+adfraser@utas.edu.au
